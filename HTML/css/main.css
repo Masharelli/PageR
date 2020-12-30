@@ -433,6 +433,15 @@ nav#mainNav a.active:after {
 /*Testimonials and client*/
 
 
+.video{
+	width: 100%;
+	max-width: 600px;
+}
+
+.imgCliente{
+	width: 300px;
+	height: 150px;
+}
 
 
 .testiCliContainer .overlay {
@@ -481,7 +490,7 @@ nav#mainNav a.active:after {
 
 .clientHolder{
 	background:rgb(0, 0, 0);
-	margin-top:50px;
+	margin-top:20px;
 	padding-top:50px;
 	padding-bottom:50px;
 }
